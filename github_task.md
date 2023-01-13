@@ -1,4 +1,4 @@
-ceci est une affectation
+ceci est un fichier d'affectation
 
 
 
